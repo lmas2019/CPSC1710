@@ -1,0 +1,12 @@
+# Downloaded source dataset; reviewed training images live under pip-art.
+/Dishware_Classification_Dataset/
+/Dishware_Classification_Dataset.zip
+
+# Temporary browser profiles and test snapshots.
+**/chrome-training-profile/
+**/chrome-verification-profile/
+**/training-dom.html
+**/candidate-selftest.html
+*.log
+Thumbs.db
+.DS_Store

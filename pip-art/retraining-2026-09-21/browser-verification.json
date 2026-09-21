@@ -1,0 +1,9 @@
+{
+    "selftest":  "passed",
+    "report":  "11 / 19 correct (58%). bowls: 4/6 · cups: 4/8 · plates: 3/5. Probability, upload, filename independence, invalid-file, and recovery checks passed.",
+    "feedback":  "save, correction, deduplication, persistence, original-photo export, test quarantine, no implicit retraining passed",
+    "trainingLog":  "recorded weights match shipped model",
+    "status":  "Ready! Try another photo to compare the probabilities.",
+    "training":  "75 / 89",
+    "questions":  9
+}

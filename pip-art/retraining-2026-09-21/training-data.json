@@ -1,0 +1,1066 @@
+[
+    {
+        "split":  "test",
+        "label":  "bowls",
+        "image":  "images/original-0.jpeg",
+        "source":  "The Dataset/DataSet/test/bowls/2 (15).jpeg",
+        "hash":  "77c69c525891a87f295e538c95804f43e15eedeb8eb06742cdbc71e161190236",
+        "origin":  "original"
+    },
+    {
+        "split":  "test",
+        "label":  "bowls",
+        "image":  "images/original-1.jpeg",
+        "source":  "The Dataset/DataSet/test/bowls/2 (2).jpeg",
+        "hash":  "8d47b0625e842e28c109d6d8db2b54ec448dd4c37402048082ebf1f7ce3bbf3a",
+        "origin":  "original"
+    },
+    {
+        "split":  "test",
+        "label":  "bowls",
+        "image":  "images/original-2.jpeg",
+        "source":  "The Dataset/DataSet/test/bowls/2.1.1.jpeg",
+        "hash":  "805e44630d66795a87335ebc13c7a95dddc237b77b6b28e5b3c0d92aaff782c3",
+        "origin":  "original"
+    },
+    {
+        "split":  "test",
+        "label":  "bowls",
+        "image":  "images/original-3.jpeg",
+        "source":  "The Dataset/DataSet/test/bowls/2.3.jpeg",
+        "hash":  "d4eabf518e9e42510cec3f924161e97dc7ce02d971248cb656a4f0ad56f5f6d3",
+        "origin":  "original"
+    },
+    {
+        "split":  "test",
+        "label":  "bowls",
+        "image":  "images/original-4.jpeg",
+        "source":  "The Dataset/DataSet/test/bowls/2.4.jpeg",
+        "hash":  "cd21d48daa3bf794bc07a4b3c3929a7f73d99501f42652a9dfb4a928d9c049fe",
+        "origin":  "original"
+    },
+    {
+        "split":  "test",
+        "label":  "bowls",
+        "image":  "images/original-5.jpg",
+        "source":  "The Dataset/DataSet/test/bowls/3.3.jpg",
+        "hash":  "8ba23146c0084d8a0c9c927efbb48b67a3622e7bf5e1a67bb5acae48ef60df8c",
+        "origin":  "original"
+    },
+    {
+        "split":  "test",
+        "label":  "cups",
+        "image":  "images/original-6.jpeg",
+        "source":  "The Dataset/DataSet/test/cups/1 (14).jpeg",
+        "hash":  "314e1b7eb93c135b9e6725841a38309dfb5acbaedc0fc6b323470ed56bff7364",
+        "origin":  "original"
+    },
+    {
+        "split":  "test",
+        "label":  "cups",
+        "image":  "images/original-7.jpeg",
+        "source":  "The Dataset/DataSet/test/cups/1 (21).jpeg",
+        "hash":  "4b2ea37ca170b155af6d05c85e30e201b5852dcf8b130eb2cdb7220aacbfbb4e",
+        "origin":  "original"
+    },
+    {
+        "split":  "test",
+        "label":  "cups",
+        "image":  "images/original-8.jpeg",
+        "source":  "The Dataset/DataSet/test/cups/1 (28).jpeg",
+        "hash":  "d923ca22de0ff5a6e02b41fb69221d401fc1b54ba9c8f96d935ec4339db0436d",
+        "origin":  "original"
+    },
+    {
+        "split":  "test",
+        "label":  "cups",
+        "image":  "images/original-9.jpeg",
+        "source":  "The Dataset/DataSet/test/cups/1 (7).jpeg",
+        "hash":  "00b6c95714c58676b0b0d79e39c886b99644f9a3cc503346d3b510d7e49f5539",
+        "origin":  "original"
+    },
+    {
+        "split":  "test",
+        "label":  "cups",
+        "image":  "images/original-10.jpeg",
+        "source":  "The Dataset/DataSet/test/cups/1.3.jpeg",
+        "hash":  "ff8dc0c20062fdb0031657a71ec7a0264002d0bcf2db4456b0666342dd2f18bc",
+        "origin":  "original"
+    },
+    {
+        "split":  "test",
+        "label":  "cups",
+        "image":  "images/original-11.jpeg",
+        "source":  "The Dataset/DataSet/test/cups/1.7.jpeg",
+        "hash":  "d847dbd2e6ad7d88b8dbf5b4ee4513093f61ff540ae1e78e9f08a5238262356e",
+        "origin":  "original"
+    },
+    {
+        "split":  "test",
+        "label":  "cups",
+        "image":  "images/original-12.jpg",
+        "source":  "The Dataset/DataSet/test/cups/2.14.jpg",
+        "hash":  "7fefaa9dd1e09b6f66f8dd42551f461da15ead151a76a0365d2f8b7bab404b2e",
+        "origin":  "original"
+    },
+    {
+        "split":  "test",
+        "label":  "cups",
+        "image":  "images/original-13.jpg",
+        "source":  "The Dataset/DataSet/test/cups/2.7.jpg",
+        "hash":  "93e002612e0f279d47a7b52932f51cfec09f142cbfa05f744f3bb1d462118cd0",
+        "origin":  "original"
+    },
+    {
+        "split":  "test",
+        "label":  "plates",
+        "image":  "images/original-14.jpg",
+        "source":  "The Dataset/DataSet/test/plates/2.1.jpg",
+        "hash":  "a953a75032287e5d4778047023ee8e473aef583c2b2aec6cd57540b2b7496e84",
+        "origin":  "original"
+    },
+    {
+        "split":  "test",
+        "label":  "plates",
+        "image":  "images/original-15.jpg",
+        "source":  "The Dataset/DataSet/test/plates/2.6.jpg",
+        "hash":  "a912266599223e3d817ce33cd23ce4dfc6b8cfd02c5da639d464f40bd379c64e",
+        "origin":  "original"
+    },
+    {
+        "split":  "test",
+        "label":  "plates",
+        "image":  "images/original-16.jpeg",
+        "source":  "The Dataset/DataSet/test/plates/3 (8).jpeg",
+        "hash":  "6e3166c4489a7f4f7f30d0c707e563ded42126db1ba37a43c1fd9ebfc7f6dcea",
+        "origin":  "original"
+    },
+    {
+        "split":  "test",
+        "label":  "plates",
+        "image":  "images/original-17.jpeg",
+        "source":  "The Dataset/DataSet/test/plates/3.1.jpeg",
+        "hash":  "81cea674725279b5effc3c2c02e41bdb0f89c3a47b44a7eba0e6d7dfda840f5e",
+        "origin":  "original"
+    },
+    {
+        "split":  "test",
+        "label":  "plates",
+        "image":  "images/original-18.jpeg",
+        "source":  "The Dataset/DataSet/test/plates/3.9.jpeg",
+        "hash":  "687b36a3eea295d98ea43797e4a4e38896175a4c9c0b0647f0a18dadf55b676a",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "bowls",
+        "image":  "images/original-19.jpeg",
+        "source":  "The Dataset/DataSet/train/bowls/2 (1).jpeg",
+        "hash":  "d1a84af01aae03dd4900ac27fb9c9f021ad2456446cd05a7cd928e0e76e388d0",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "bowls",
+        "image":  "images/original-20.jpeg",
+        "source":  "The Dataset/DataSet/train/bowls/2 (10).jpeg",
+        "hash":  "14cb10f2daedae03990bb777672b0c43127f8cd6b73c45f49f4fa3f728a2f593",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "bowls",
+        "image":  "images/original-21.jpeg",
+        "source":  "The Dataset/DataSet/train/bowls/2 (11).jpeg",
+        "hash":  "4b303bacd78ba71f1f75e9c4c093808e5530f3b9a6f1227285737f10944aeccb",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "bowls",
+        "image":  "images/original-22.jpeg",
+        "source":  "The Dataset/DataSet/train/bowls/2 (12).jpeg",
+        "hash":  "af81bd90635cb57e85cfed913dbc0d80aae19567876a6d4686bfcee00d72a5b4",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "bowls",
+        "image":  "images/original-23.jpeg",
+        "source":  "The Dataset/DataSet/train/bowls/2 (13).jpeg",
+        "hash":  "c35290dab28d3a7905007e835fc87be9e66412a7a81af0d36633acbf26404654",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "bowls",
+        "image":  "images/original-24.jpeg",
+        "source":  "The Dataset/DataSet/train/bowls/2 (16).jpeg",
+        "hash":  "be0535a09032edf24319ca8b6e7cef2ae580e80176965efc2b784b320f7863ae",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "bowls",
+        "image":  "images/original-25.jpeg",
+        "source":  "The Dataset/DataSet/train/bowls/2 (3).jpeg",
+        "hash":  "5a0617781896da7f80bcd68e0e3da7cdfb88b7c346c5ef3e5bcacd81ca23e29a",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "bowls",
+        "image":  "images/original-26.jpeg",
+        "source":  "The Dataset/DataSet/train/bowls/2 (4).jpeg",
+        "hash":  "e4ad89a69d4114466b0edd99e4428c21039ddde4a80575582f14998be663f663",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "bowls",
+        "image":  "images/original-27.jpeg",
+        "source":  "The Dataset/DataSet/train/bowls/2 (5).jpeg",
+        "hash":  "edd8c17b05a73276ca92c41e733db19f2125f276d902849c12238b1d946f1125",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "bowls",
+        "image":  "images/original-28.jpeg",
+        "source":  "The Dataset/DataSet/train/bowls/2 (6).jpeg",
+        "hash":  "14e91cb044cad162f691cd006218ba25e91b898147b8df94a6056488128297b3",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "bowls",
+        "image":  "images/original-29.jpeg",
+        "source":  "The Dataset/DataSet/train/bowls/2 (7).jpeg",
+        "hash":  "15558907a9bb75335ba3985627e4659a17012b2a5c5f4b9f5e4c82b6dbf2e6c5",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "bowls",
+        "image":  "images/original-30.jpeg",
+        "source":  "The Dataset/DataSet/train/bowls/2 (8).jpeg",
+        "hash":  "e5ea96e50f8067a90a8ef21e5b8e17cb2d0370062f2beeef16ea7d85bc80ee2a",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "bowls",
+        "image":  "images/original-31.jpeg",
+        "source":  "The Dataset/DataSet/train/bowls/2 (9).jpeg",
+        "hash":  "0456ba04fe030606ae71131aeef7d529e789f0e961600cbdd452baa149a5f885",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "bowls",
+        "image":  "images/original-32.jpeg",
+        "source":  "The Dataset/DataSet/train/bowls/2.1.jpeg",
+        "hash":  "3850260fca409c0bebbb0d84aebaf0634a10d1cb2e12bd8ecbbe4c49f0cbdf44",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "bowls",
+        "image":  "images/original-33.jpeg",
+        "source":  "The Dataset/DataSet/train/bowls/2.2.jpeg",
+        "hash":  "a085a2618becffa7e2ca95ab60c251f3caa219c3442bb4f6175e9b00f0b45a65",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-34.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1 (1).jpeg",
+        "hash":  "328498938b50487cee2f3dff0fd0c32ffd79699b59745663e1d7dac19830bd25",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-35.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1 (11).jpeg",
+        "hash":  "89bf1c89cefa8270bdaedf44d212045c331aba384e209a358078cc9afc439ef7",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-36.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1 (12).jpeg",
+        "hash":  "bd10399747f99a06499f12b930fcd94ec2b671aebb516de825472755896e28cf",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-37.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1 (13).jpeg",
+        "hash":  "20a9e4b4b224b583d98deffd01f9c9f9a769bfc018bff43b835055f3fd42559b",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-38.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1 (15).jpeg",
+        "hash":  "4a5c1fab15080941e4abd8e149cf103ff997dff14dc6ca2de013ae560bb9ce79",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-39.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1 (16).jpeg",
+        "hash":  "f3c03c6a50d905b20d897229784e7ca4d40f3964bca27ca629793bab39a3c3b7",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-40.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1 (19).jpeg",
+        "hash":  "6ccc0442d65fb8d13c045b4addd4c7964de7b5b65cb5119e6ad46ab1c5cb8067",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-41.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1 (20).jpeg",
+        "hash":  "c638d963cf0423e727ab3bdd8cd37884e461b725f9ec214010c1948b01180c63",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-42.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1 (22).jpeg",
+        "hash":  "6482f6d3f64034f504ecfd15b820629557327dca76e255613c389b48a0324a32",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-43.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1 (23).jpeg",
+        "hash":  "e326b999a90f50d9c1709d2cbb347ce06afd0f80d48003db3741b7053d36d81b",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-44.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1 (24).jpeg",
+        "hash":  "da3bb75c711347178021f3eaa5419b0cdd1b4437d5c60178e553522dd8741392",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-45.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1 (26).jpeg",
+        "hash":  "882fa63083d2212b8fca4f1d906618761a29986f37205995dca1c8fd31ba2630",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-46.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1 (27).jpeg",
+        "hash":  "a01ad82ac013f682ef938d06960effc271d8b9c5999e5752f55f79e4bbb0cf10",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-47.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1 (29).jpeg",
+        "hash":  "d247a44b7392b852ff7e121f890fb3205ed1e71c0b15cc2ee15cb91b03215d7a",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-48.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1 (3).jpeg",
+        "hash":  "6a58511374e28e6ebbaaaf44107658bcbea92640bf97cff375b85a0e5e7c8f48",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-49.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1 (4).jpeg",
+        "hash":  "010c0fe35205896a7464382f6d9fdb801f94ee1579aeabb6be23fd8c476d5ad6",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-50.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1 (5).jpeg",
+        "hash":  "acd3c9c837729b74e69c101865bfef6d642cda59f626cb3d86eeceee7ae8b5a1",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-51.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1 (6).jpeg",
+        "hash":  "f82336854d5e3f35660f8691cea7b02e0f918c538bdafaf96dcaba73360eb7d4",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-52.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1 (8).jpeg",
+        "hash":  "4aaf184cb74da8fa0ff8bd245065c7b73572deb245243732cda077019ef9e626",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-53.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1.1.jpeg",
+        "hash":  "6e3ed533448ad362d7ffffe9e49af89a669bd10894c75c5ddc5db1a9aaacfbe3",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-54.jpg",
+        "source":  "The Dataset/DataSet/train/cups/1.1.jpg",
+        "hash":  "f843b2777d74d3ded456de2b769a5189743d262cac07f88abe68516e7327b92b",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-55.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1.10.jpeg",
+        "hash":  "da0a0fa4be2d3c949678677f4ae2b5f9cc04cf7b00f6f5596208eb7767bc0483",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-56.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1.12.jpeg",
+        "hash":  "9838c18b62e3f4cb2ae7eba8f2cda3b9a39ae5c77154a8ae51d51ff266542b78",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-57.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1.2.jpeg",
+        "hash":  "4f41215ac3222846734b70534c92ef4a3e118e72cec412fbf9fea788460fd13f",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-58.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1.3.jpeg",
+        "hash":  "0c6582e0bb8b228ffd5faff5f377680ba4574283337b82ecaecaf1832c03fcd9",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-59.jpg",
+        "source":  "The Dataset/DataSet/train/cups/1.3.jpg",
+        "hash":  "e0e3fb7676bc7fdbe290fbc1597922e8918c9d0fdaeb6586f785c97b3e14a7e8",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-60.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1.4.jpeg",
+        "hash":  "1a00498e7aace3bb5ddba35bbaf1a1f2e9fb7f09d0529741bb237c649e56aa79",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-61.jpg",
+        "source":  "The Dataset/DataSet/train/cups/1.4.jpg",
+        "hash":  "746c0de116dfe9d8353f840305e6fe9b863a0199f6bcb2cfbe4e3abd71a15252",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-62.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1.42.jpeg",
+        "hash":  "6de4bacdcb1c2fc74495292a91f40fc61e4a7823862eb19ce8e93190146f39cf",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-63.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1.5.2.jpeg",
+        "hash":  "7b65c7bb8ce798322ee1b4aff550bdb5e288377bd9a07290aae02e52aed8b79f",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-64.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1.5.jpeg",
+        "hash":  "064e040a3316a54ccafe33e2b2dd9486b34bca69a30a9b7e3f441e979ab7ff57",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-65.jpg",
+        "source":  "The Dataset/DataSet/train/cups/1.5.jpg",
+        "hash":  "19fac8760465f87c6005100a50900e5f38ad0d9821666c2c7ff2aaf2275341c4",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-66.jpeg",
+        "source":  "The Dataset/DataSet/train/cups/1.9.jpeg",
+        "hash":  "48e29f9786cd09ba79c653b293eb79e9602279ae36a556519c3d7942fc3c4f3d",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-67.jpg",
+        "source":  "The Dataset/DataSet/train/cups/2.1.jpg",
+        "hash":  "ba68b44189f35e69eafa4330d53236d61a11ed8342b96b987018cfdadc1e4fd3",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-68.jpg",
+        "source":  "The Dataset/DataSet/train/cups/2.10.jpg",
+        "hash":  "6c3af734413119b203409e29cc45a6db37270995ece9b5f3a39a243214155110",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-69.jpg",
+        "source":  "The Dataset/DataSet/train/cups/2.11.jpg",
+        "hash":  "081a0feee0eabbcf9ebb6b99b8363db183b5c1f6fca29c1caf970549c2488b18",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-70.jpg",
+        "source":  "The Dataset/DataSet/train/cups/2.12.jpg",
+        "hash":  "5bb2725f3808041e83a21fe724b894408581f99f7f97345bf8a14febe3f45006",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-71.jpg",
+        "source":  "The Dataset/DataSet/train/cups/2.13.jpg",
+        "hash":  "0aac856d55df4b273eac24f5ce492fb8bf2d62105e9a9a7172abc7e6701b05d2",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-72.jpg",
+        "source":  "The Dataset/DataSet/train/cups/2.15.jpg",
+        "hash":  "bb99ef80598a1f7c01a91b563a1124a96b2a95f0bc59cdd0281ccca20e142c69",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-73.jpg",
+        "source":  "The Dataset/DataSet/train/cups/2.2.jpg",
+        "hash":  "9ed11cff4491f9a23a1b6d0ac897ce11f8e740f2cea9eff2de3a6ceddcdb5f45",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/original-74.jpg",
+        "source":  "The Dataset/DataSet/train/cups/2.6.jpg",
+        "hash":  "c8d52823686585c507683af636b948a30151db5a7538f9777a775d210f9a3038",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-75.jpg",
+        "source":  "The Dataset/DataSet/train/plates/2.1.1.jpg",
+        "hash":  "e3874e267e4ef95f03d5ad38af29c66b0ffac710817473bafbcdb5bba61288b6",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-76.jpg",
+        "source":  "The Dataset/DataSet/train/plates/2.2.1.jpg",
+        "hash":  "aee7cedef9d5fbe9e8b0046da0d3b4ad048c48e8afc5c1ce1dccb7ddf632efc2",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-77.jpg",
+        "source":  "The Dataset/DataSet/train/plates/2.2.jpg",
+        "hash":  "b6c2a929ee4a5e27c6b99c52f33180ba0d840ebc6420de6cae6e270b49ac3e08",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-78.jpg",
+        "source":  "The Dataset/DataSet/train/plates/2.3.jpg",
+        "hash":  "c18daf71fbe092976a2d78271022dab1c2306e93e02f17b5829cc7361652c8bd",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-79.jpg",
+        "source":  "The Dataset/DataSet/train/plates/2.4.1.jpg",
+        "hash":  "4dc5b60553379bd34f88c22fb86efdaa43b299e8cfad168fa65dc617fd83479b",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-80.jpg",
+        "source":  "The Dataset/DataSet/train/plates/2.4.jpg",
+        "hash":  "b1bc0863ad8153fa61a1d679563af18ffde4c33c2092460cc8d1c4d279d2cdf1",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-81.jpg",
+        "source":  "The Dataset/DataSet/train/plates/2.5.jpg",
+        "hash":  "073aaac70b6a1042fff44fdc35982e6ebff5b3e6504d9a1d402b8f487d101929",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-82.jpeg",
+        "source":  "The Dataset/DataSet/train/plates/3 (12).jpeg",
+        "hash":  "a28a2373be6d6802da704c39d653bdb9d90df0109e56ad2c140ff217087d930e",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-83.jpeg",
+        "source":  "The Dataset/DataSet/train/plates/3 (13).jpeg",
+        "hash":  "3f5a937a72b6ab966fc8a45b3216b215510ea24d5ff6a2ee4667a14b96b9e04c",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-84.jpeg",
+        "source":  "The Dataset/DataSet/train/plates/3 (14).jpeg",
+        "hash":  "214b0db439c412fb69aba35b339af7031ff37bda975a981c4a73d1e7338717a8",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-85.jpeg",
+        "source":  "The Dataset/DataSet/train/plates/3 (15).jpeg",
+        "hash":  "c7e6d28b2c18b793483a9435b6f9d8ce2c9d6c3d576acb5f74b4433d1fc247b4",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-86.jpeg",
+        "source":  "The Dataset/DataSet/train/plates/3 (2).jpeg",
+        "hash":  "c2adf196c9e72ac530ef6ead78131eeb9bd5a50b014f76fac69b10bdfff6c26d",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-87.jpeg",
+        "source":  "The Dataset/DataSet/train/plates/3 (3).jpeg",
+        "hash":  "8e1c790b0aa7d07699b02b5b9f9f29a7f06455a631a4c280c752985ba272055c",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-88.jpeg",
+        "source":  "The Dataset/DataSet/train/plates/3 (4).jpeg",
+        "hash":  "0af0e15c56f0e79f578b205f98c41565a7715faac5cb33460246f3caf40af527",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-89.jpeg",
+        "source":  "The Dataset/DataSet/train/plates/3 (5).jpeg",
+        "hash":  "96f16512938099b69c36a7c729de0845b78ab222e435f336f2a81f77825fae9f",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-90.jpeg",
+        "source":  "The Dataset/DataSet/train/plates/3 (6).jpeg",
+        "hash":  "a2cf528db660e4624e4ee9e6666dd1e4b2a1c941568fc4b93eae5d09c56d9601",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-91.jpeg",
+        "source":  "The Dataset/DataSet/train/plates/3.1.1.jpeg",
+        "hash":  "19ba91a69526359e2fdcd2aac84d52a5dae641fabfca94f9f5b16c440ed7b78e",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-92.jpeg",
+        "source":  "The Dataset/DataSet/train/plates/3.3.1.jpeg",
+        "hash":  "bc4e9458e02d294876621fedd9159b9f723980f8df2c1ce6a3866fcb4aa4f42a",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-93.jpeg",
+        "source":  "The Dataset/DataSet/train/plates/3.3.jpeg",
+        "hash":  "c92c69f9e9ce3589e330d6ba840c4210c63d9cfae0c936fa9063fed170bde163",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-94.jpeg",
+        "source":  "The Dataset/DataSet/train/plates/3.4.jpeg",
+        "hash":  "dfce70910fcb47d305fbfd76d25700d444c40c6bfb12c189283ad6990f0072c6",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-95.jpeg",
+        "source":  "The Dataset/DataSet/train/plates/3.5.jpeg",
+        "hash":  "84c799e3884b9ffe20c2526c4764843b2d00033d2b3123000c75d39501fc4575",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-96.jpeg",
+        "source":  "The Dataset/DataSet/train/plates/3.6.jpeg",
+        "hash":  "64f09edf6a9a62554f7ec0f156b10508dbc4cbe906322c89dea1cec3ce73aa86",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-97.jpeg",
+        "source":  "The Dataset/DataSet/train/plates/3.7.jpeg",
+        "hash":  "7fdb0dca3131f176d3e036e5541a37fa2f93fb1e3b951041546b7c224a554eb0",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/original-98.jpeg",
+        "source":  "The Dataset/DataSet/train/plates/3.8.jpeg",
+        "hash":  "98d464d9b84943ec4d232c698f1cab60fbfde59f662b25b3481dc9b601ec65f1",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "bowls",
+        "image":  "images/original-99.jpeg",
+        "source":  "The Dataset/DataSet/valid/bowls/2 (14).jpeg",
+        "hash":  "4a464f5b7632f6e2a597063448231c846be8b1cf6da6cc4a79d442a52a3b3f4a",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "bowls",
+        "image":  "images/original-100.jpeg",
+        "source":  "The Dataset/DataSet/valid/bowls/2 (17).jpeg",
+        "hash":  "dfa7eabcd4dbf3e532db411b32d50669a282fb8372e10597c6e17a7115902bfc",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "bowls",
+        "image":  "images/original-101.jpeg",
+        "source":  "The Dataset/DataSet/valid/bowls/2 (18).jpeg",
+        "hash":  "c6d36fbac25e3ad2660339377c8cba222285adfb39bb63ebdc3244120ac1cdfc",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "bowls",
+        "image":  "images/original-102.jpg",
+        "source":  "The Dataset/DataSet/valid/bowls/3.1.jpg",
+        "hash":  "50995d04c67015c17e6e3aac9c1df8e92c231bf38766167a051f219fb4a3a48b",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "bowls",
+        "image":  "images/original-103.jpeg",
+        "source":  "The Dataset/DataSet/valid/bowls/3.2.1.jpeg",
+        "hash":  "a7b847c3b6e346ce8fcbdbcaf91ffc02c49d4ecf74819fa0b8c9f7eae790d10a",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "bowls",
+        "image":  "images/original-104.jpg",
+        "source":  "The Dataset/DataSet/valid/bowls/3.2.jpg",
+        "hash":  "5534440c88d5e565b10716b78f2c617764227b4630a3facaac586d5dec0d027c",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "cups",
+        "image":  "images/original-105.jpeg",
+        "source":  "The Dataset/DataSet/valid/cups/1 (10).jpeg",
+        "hash":  "ed935c658f1c533ab383cfe4d69d530018312848867a848981996b2a4ff0b370",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "cups",
+        "image":  "images/original-106.jpeg",
+        "source":  "The Dataset/DataSet/valid/cups/1 (17).jpeg",
+        "hash":  "88127613661395440d3695f4f2a556af0e1fbfe9e8ac1ae741c954fec3409ccf",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "cups",
+        "image":  "images/original-107.jpeg",
+        "source":  "The Dataset/DataSet/valid/cups/1 (18).jpeg",
+        "hash":  "98d9299ed35a772208c0b25f46570f07aaa28e9d161288f5bc6d69a719ab28ef",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "cups",
+        "image":  "images/original-108.jpeg",
+        "source":  "The Dataset/DataSet/valid/cups/1 (2).jpeg",
+        "hash":  "03bb411c8ee1ea3fd52bf079d3064dcf8e5a880c357a6f79937f64bb3e7505e0",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "cups",
+        "image":  "images/original-109.jpeg",
+        "source":  "The Dataset/DataSet/valid/cups/1 (25).jpeg",
+        "hash":  "e9ef2ed9148accc6bfc912630621e851b3f87353887dc30c344d4cddfe8444b8",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "cups",
+        "image":  "images/original-110.jpeg",
+        "source":  "The Dataset/DataSet/valid/cups/1 (9).jpeg",
+        "hash":  "da30c2521f1e8860dd41d2bbe602beaa55729ae11e2d0f2066f3448de4599730",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "cups",
+        "image":  "images/original-111.jpeg",
+        "source":  "The Dataset/DataSet/valid/cups/1.2.jpeg",
+        "hash":  "ba4371255c4474468759bc702aabdc5477dbfb3d7c9c87c69bfde660e3c41864",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "cups",
+        "image":  "images/original-112.jpg",
+        "source":  "The Dataset/DataSet/valid/cups/1.2.jpg",
+        "hash":  "f0a7aa1bf585be01d35f9cc4318beb009ff93a0782778becb11abb016922f9d4",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "cups",
+        "image":  "images/original-113.jpeg",
+        "source":  "The Dataset/DataSet/valid/cups/1.6.jpeg",
+        "hash":  "a431c6d9e70b2a5daaf68be7db3c5fbd153e633d60caf7ebef0342caaead90db",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "cups",
+        "image":  "images/original-114.jpeg",
+        "source":  "The Dataset/DataSet/valid/cups/1.8.jpeg",
+        "hash":  "d154f85d6b61e9b4991efadc80e56a0d3f122f8769658f97a359672608dfb7d7",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "cups",
+        "image":  "images/original-115.jpg",
+        "source":  "The Dataset/DataSet/valid/cups/2.8.jpg",
+        "hash":  "fa022fb4c2932bb8c206ea5b3df7d92b2a363e7170c1842a1aade678db3db071",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "cups",
+        "image":  "images/original-116.jpg",
+        "source":  "The Dataset/DataSet/valid/cups/2.9.jpg",
+        "hash":  "fdc110fa14bdec1f8469895c7b3ce2476240443428781f6a9dadbc4dbe36875c",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "plates",
+        "image":  "images/original-117.jpg",
+        "source":  "The Dataset/DataSet/valid/plates/2.3.1.jpg",
+        "hash":  "e2f81f7fda570110e528cd22d8a8dad3469586507818c4c439e8c297afa1884c",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "plates",
+        "image":  "images/original-118.jpeg",
+        "source":  "The Dataset/DataSet/valid/plates/3 (1).jpeg",
+        "hash":  "61a4b74012021876d912bf7d283384b02ca841d1076800551030b35b339f1f26",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "plates",
+        "image":  "images/original-119.jpeg",
+        "source":  "The Dataset/DataSet/valid/plates/3 (10).jpeg",
+        "hash":  "2542fe7ce26cb9b8506a97ec7c91bbe24fae9954196c46525641eefb6a302a2d",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "plates",
+        "image":  "images/original-120.jpeg",
+        "source":  "The Dataset/DataSet/valid/plates/3 (11).jpeg",
+        "hash":  "1d48a106c5d09ea54bbcbe2c195088e04cb0973095f677dc00addc4402283742",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "plates",
+        "image":  "images/original-121.jpeg",
+        "source":  "The Dataset/DataSet/valid/plates/3 (7).jpeg",
+        "hash":  "067a2aefe047541fea08f9493212416cc1d1dfd1050a23b3c88dcd2142b6f4a1",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "plates",
+        "image":  "images/original-122.jpeg",
+        "source":  "The Dataset/DataSet/valid/plates/3 (9).jpeg",
+        "hash":  "8001e5eacc390bcae2ce7374b70087348113ad05cddfdeed0c3b5f23c93263cf",
+        "origin":  "original"
+    },
+    {
+        "split":  "valid",
+        "label":  "plates",
+        "image":  "images/original-123.jpeg",
+        "source":  "The Dataset/DataSet/valid/plates/3.2.jpeg",
+        "hash":  "2e8a83302636feb95d8333ef76a1c6c3f7212352ad0b865f4fcdedaef75f0f8c",
+        "origin":  "original"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/added-0f5247b4c46d.png",
+        "source":  "Screenshot 2026-09-21 182717.png",
+        "hash":  "0f5247b4c46d6ffc4e841f768dc5e37299eec3262b40c61824dc10f44a580b4b",
+        "origin":  "visitor-export"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/added-1a4630bcc965.png",
+        "source":  "Screenshot 2026-09-21 182705.png",
+        "hash":  "1a4630bcc965f86a271594ffebae467d44e57f0cdfb09c7da348cab1fe0e907b",
+        "origin":  "visitor-export"
+    },
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/added-29963855247d.png",
+        "source":  "Screenshot 2026-09-21 183041.png",
+        "hash":  "29963855247d6757f2437befa1e6704e90c880fa51e0d826ca245a8a98cc3f02",
+        "origin":  "visitor-export"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/added-2b34ca70d308.png",
+        "source":  "Screenshot 2026-09-21 182633.png",
+        "hash":  "2b34ca70d308e9964931fe8343c2f4ffdf35f0deb1f08c6fbdb81314812b6563",
+        "origin":  "visitor-export"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/added-306cf3844079.png",
+        "source":  "Screenshot 2026-09-21 182627.png",
+        "hash":  "306cf38440793bce5abdef6d9838734d0deb473a9f57ddb8f9be54979f65f0ce",
+        "origin":  "visitor-export"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/added-935719745528.png",
+        "source":  "Screenshot 2026-09-21 182622.png",
+        "hash":  "93571974552870aca4f14137ab9640a9f6e53007a8f91e0c0308575674f9b725",
+        "origin":  "visitor-export"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/added-aa3d6286413c.jpg",
+        "source":  "images.jpeg",
+        "hash":  "aa3d6286413c65ac3b07ff8f6dea77e0983eaadb40292ab9bfcb8a95aa3cd4a4",
+        "origin":  "visitor-export"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/added-b84c719acac2.png",
+        "source":  "Screenshot 2026-09-21 182643.png",
+        "hash":  "b84c719acac230fc5c1554bcb20214e13c94c5d25210e0f984dfb2c825f8af89",
+        "origin":  "visitor-export"
+    },
+    {
+        "split":  "train",
+        "label":  "cups",
+        "image":  "images/added-e7d40880db7f.png",
+        "source":  "Screenshot 2026-09-21 182653.png",
+        "hash":  "e7d40880db7f24783fc9bbac349f6050c9bb09b1e40396348274e0821ef2f35b",
+        "origin":  "visitor-export"
+    }
+]

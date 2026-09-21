@@ -1,0 +1,67 @@
+[
+    {
+        "source":  "The Dataset/DataSet/train/cups/1 (29).jpg",
+        "decision":  "excluded exact duplicate",
+        "hash":  "d247a44b7392b852ff7e121f890fb3205ed1e71c0b15cc2ee15cb91b03215d7a"
+    },
+    {
+        "filename":  "Screenshot 2026-09-21 182717.png",
+        "label":  "plates",
+        "hash":  "0f5247b4c46d6ffc4e841f768dc5e37299eec3262b40c61824dc10f44a580b4b",
+        "decision":  "accepted for training; label visually reviewed; no exact dataset duplicate or obvious visual held-out duplicate"
+    },
+    {
+        "filename":  "Screenshot 2026-09-21 152615.png",
+        "label":  "plates",
+        "hash":  "0f566034f175ad6d901bd842eaf06b53619e4fb2081afa17e24617165f716e93",
+        "decision":  "excluded ambiguous dish; confirmed by user"
+    },
+    {
+        "filename":  "Screenshot 2026-09-21 182705.png",
+        "label":  "cups",
+        "hash":  "1a4630bcc965f86a271594ffebae467d44e57f0cdfb09c7da348cab1fe0e907b",
+        "decision":  "accepted for training; label visually reviewed; no exact dataset duplicate or obvious visual held-out duplicate"
+    },
+    {
+        "filename":  "Screenshot 2026-09-21 183041.png",
+        "label":  "plates",
+        "hash":  "29963855247d6757f2437befa1e6704e90c880fa51e0d826ca245a8a98cc3f02",
+        "decision":  "accepted for training; label visually reviewed; no exact dataset duplicate or obvious visual held-out duplicate"
+    },
+    {
+        "filename":  "Screenshot 2026-09-21 182633.png",
+        "label":  "cups",
+        "hash":  "2b34ca70d308e9964931fe8343c2f4ffdf35f0deb1f08c6fbdb81314812b6563",
+        "decision":  "accepted for training; label visually reviewed; no exact dataset duplicate or obvious visual held-out duplicate"
+    },
+    {
+        "filename":  "Screenshot 2026-09-21 182627.png",
+        "label":  "cups",
+        "hash":  "306cf38440793bce5abdef6d9838734d0deb473a9f57ddb8f9be54979f65f0ce",
+        "decision":  "accepted for training; label visually reviewed; no exact dataset duplicate or obvious visual held-out duplicate"
+    },
+    {
+        "filename":  "Screenshot 2026-09-21 182622.png",
+        "label":  "cups",
+        "hash":  "93571974552870aca4f14137ab9640a9f6e53007a8f91e0c0308575674f9b725",
+        "decision":  "accepted for training; label visually reviewed; no exact dataset duplicate or obvious visual held-out duplicate"
+    },
+    {
+        "filename":  "images.jpeg",
+        "label":  "cups",
+        "hash":  "aa3d6286413c65ac3b07ff8f6dea77e0983eaadb40292ab9bfcb8a95aa3cd4a4",
+        "decision":  "accepted for training; label visually reviewed; no exact dataset duplicate or obvious visual held-out duplicate"
+    },
+    {
+        "filename":  "Screenshot 2026-09-21 182643.png",
+        "label":  "cups",
+        "hash":  "b84c719acac230fc5c1554bcb20214e13c94c5d25210e0f984dfb2c825f8af89",
+        "decision":  "accepted for training; label visually reviewed; no exact dataset duplicate or obvious visual held-out duplicate"
+    },
+    {
+        "filename":  "Screenshot 2026-09-21 182653.png",
+        "label":  "cups",
+        "hash":  "e7d40880db7f24783fc9bbac349f6050c9bb09b1e40396348274e0821ef2f35b",
+        "decision":  "accepted for training; label visually reviewed; no exact dataset duplicate or obvious visual held-out duplicate"
+    }
+]

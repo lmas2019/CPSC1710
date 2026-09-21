@@ -1,0 +1,10 @@
+[
+    {
+        "split":  "train",
+        "label":  "plates",
+        "image":  "images/added-0f566034f175.png",
+        "source":  "Screenshot 2026-09-21 152615.png",
+        "hash":  "0f566034f175ad6d901bd842eaf06b53619e4fb2081afa17e24617165f716e93",
+        "origin":  "visitor-export"
+    }
+]
